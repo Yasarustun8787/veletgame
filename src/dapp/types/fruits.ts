@@ -32,7 +32,7 @@ export interface FruitItem {
 export const FRUITS: FruitItem[] = [
   {
     fruit: Fruit.Sunflower,
-    name: "Sunflower",
+    name: "Aycicegi",
     image: sunflower,
     buyPrice: 0.01,
     sellPrice: 0.02,
@@ -41,7 +41,7 @@ export const FRUITS: FruitItem[] = [
   },
   {
     fruit: Fruit.Potato,
-    name: "Potato",
+    name: "Patates",
     image: potato,
     buyPrice: 0.1,
     sellPrice: 0.16,
@@ -50,7 +50,7 @@ export const FRUITS: FruitItem[] = [
   },
   {
     fruit: Fruit.Pumpkin,
-    name: "Pumpkin",
+    name: "Balkabagi",
     image: pumpkin,
     buyPrice: 0.4,
     sellPrice: 0.8,
